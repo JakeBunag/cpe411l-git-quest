@@ -11,3 +11,5 @@ LEVEL 5 COMPLETE: branch check
 LEVEL 6 CHEST CODE: FOX-7
 
 LEVEL 7 COMPLETE: git diff done
+
+LEVEL 8 COMPLETE: https://github.com/janjan090/cpe411l-git-quest/pull/78
